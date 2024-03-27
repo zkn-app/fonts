@@ -1,0 +1,126 @@
+/* Cascadia Mono*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    src: url('../src/Cascadia/CascadiaMono.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono italic*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: italic;
+    src: url('/src/Cascadia/CascadiaMonoItalic.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Extra Light 200*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../src/Cascadia/static/CascadiaMono-ExtraLight.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Light 300*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../src/Cascadia/static/CascadiaMono-Light.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Semi-Light 350*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    font-weight: 350;
+    src: url('../src/Cascadia/static/CascadiaMono-SemiLight.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Regular 400*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../src/Cascadia/static/CascadiaMono-Regular.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Semi Bold 600*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../src/Cascadia/static/CascadiaMono-SemiBold.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Bold 700*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../src/Cascadia/static/CascadiaMono-Bold.woff2') format('woff2');
+    font-display: swap
+}
+
+
+
+/* Cascadia Mono Extra Light 200 italic*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-weight: 200;
+    font-style: italic;
+    src: url('../src/Cascadia/static/CascadiaMono-ExtraLightItalic.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Light 300*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-weight: 300;
+    font-style: italic;
+    src: url('../src/Cascadia/static/CascadiaMono-LightItalic.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Semi-Light 350*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-weight: 350;
+    font-style: italic;
+    src: url('../src/Cascadia/static/CascadiaMono-SemiLightItalic.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Regular 400*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-weight: 400;
+    font-style: italic;
+    src: url('../src/Cascadia/static/CascadiaMono-Regular.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Semi Bold 600*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-weight: 600;
+    font-style: italic;
+    src: url('../src/Cascadia/static/CascadiaMono-SemiBoldItalic.woff2') format('woff2');
+    font-display: swap
+}
+
+/* Cascadia Mono Bold 700*/
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-weight: 700;
+    font-style: italic;
+    src: url('../src/Cascadia/static/CascadiaMono-BoldItalic.woff2') format('woff2');
+    font-display: swap
+}
+
