@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Panton Black italic Caps';
+    src: url('src/Panton/Panton-BlackitalicCaps.woff2') format('woff2'),
+        url('src/Panton/Panton-BlackitalicCaps.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panton Black Caps';
+    src: url('src/Panton/Panton-BlackCaps.woff2') format('woff2'),
+        url('src/Panton/Panton-BlackCaps.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panton Light italic Caps';
+    src: url('src/Panton/Panton-LightitalicCaps.woff2') format('woff2'),
+        url('src/Panton/Panton-LightitalicCaps.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panton Light Caps';
+    src: url('src/Panton/Panton-LightCaps.woff2') format('woff2'),
+        url('src/Panton/Panton-LightCaps.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
