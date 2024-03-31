@@ -38,7 +38,7 @@
     font-family: 'Open Sans';
     src: url('src/OpenSans/OpenSans-ExtraboldItalic.woff2') format('woff2'),
         url('src/OpenSans/OpenSans-ExtraboldItalic.woff') format('woff');
-    font-weight: bold;
+    font-weight: 800;
     font-style: italic;
     font-display: swap;
 }
@@ -56,7 +56,7 @@
     font-family: 'Open Sans';
     src: url('src/OpenSans/OpenSans-Extrabold.woff2') format('woff2'),
         url('src/OpenSans/OpenSans-Extrabold.woff') format('woff');
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
