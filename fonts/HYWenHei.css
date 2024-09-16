@@ -1,4 +1,5 @@
 @font-face {
     font-family: 'HYWenHei';
-    src: url('src/HYWenHei/zh-cn.ttf') format('ttf');
+    src: url('src/HYWenHei/HYWenHei.woff') format('woff'),
+        src: url('src/HYWenHei/zh-cn.') format('ttf');
 }
